@@ -1,0 +1,53 @@
+
+.newsContainer{
+  margin-top: 20px;
+}
+
+.leftContainer1{
+  width: 400px;
+  float: left;
+}
+/*.carouser img{*/
+  /*width: 100%;*/
+/*}*/
+.img_footer{
+  float: left;
+}
+.news_tab{
+  float: left;
+  width: 440px;
+  margin-left: 10px;
+}
+
+.textContainer li a{
+  display: block;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #666;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.react_product{
+  float: left;
+  margin-left: 10px;
+  width:370px;
+}
+
+.pro a{
+  float: left;
+  width:90px;
+  text-align: center;
+  height:35px;
+  line-height:35px ;
+}
+.pro{
+  overflow: hidden;
+  margin-top: 5px;
+}
+
+.pro_bg{
+  background-color: #eee;
+}
+

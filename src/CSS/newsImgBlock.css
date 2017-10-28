@@ -1,0 +1,11 @@
+.newsImgContainer{
+  float: left;
+  margin-right: 7px;
+  margin-bottom: 10px;
+}
+.newsImgContainer h3 {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow:ellipsis;
+}
+
